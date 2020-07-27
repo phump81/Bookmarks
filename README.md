@@ -8,4 +8,4 @@ I want to see a list of my bookmarks
 Domain Model
 ------------
 
-![Bookmark Manager domain model](file:///Users/Paul/Downloads/diagram%20(1).svg)
+![Bookmark Manager domain model](./diagram1.svg)
