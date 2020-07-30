@@ -4,6 +4,16 @@
       "/Users/Paul/Projects/Bookmarks/spec/bookmark_spec.rb": {
         "lines": [
           1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
           null,
           1,
           null,
@@ -12,8 +22,43 @@
           1,
           1,
           1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
           1,
           null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/Paul/Projects/Bookmarks/spec/database_helpers.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/Paul/Projects/Bookmarks/spec/features/adding_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
           null,
           null
         ]
@@ -36,11 +81,14 @@
           1,
           1,
           1,
+          1,
+          1,
+          1,
           null,
           null
         ]
       }
     },
-    "timestamp": 1595947362
+    "timestamp": 1596104791
   }
 }

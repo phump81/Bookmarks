@@ -12,12 +12,16 @@ To set up the appropriate tables, connect to each database in `psql` and run the
 
 
 
-User Story
-==========
+User Stories
+============
 
-As a user
-So that I can revisit my favourite pages
+As a user\
+So that I can revisit my favourite webpages\
 I want to see a list of my bookmarks
+
+As a user\
+So that I can revisit a new favourite webpage\
+I want to be able to add a new bookmark
 
 Domain Model
 ------------
